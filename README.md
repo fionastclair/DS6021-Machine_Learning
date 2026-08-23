@@ -2,7 +2,9 @@
 
 Welcome to DS6021 for Fall 2026! 
 
-This repository includes a Python environment suitable for use in this class, as well as worked in class examples, and homework solutions. It will also include data that will be used in the course. It will be updated frequently so get comfortable with `git pull`! 
+This repository will complement our Canvas page and will be a place to access course materials and homework solutions. 
+
+It includes a Python environment suitable for use in this class, as well as worked in class examples, and homework solutions. It will also include data that will be used in the course. It will be updated frequently so get comfortable with `git pull`! Additional content (e.g. lecture slides, complementary informatoin) may be added throughout the semester. In addition to Python setup files, please pay attention to the following folders: 
 
 ```
 notebooks/              In-class examples (These will updated frequently!)
