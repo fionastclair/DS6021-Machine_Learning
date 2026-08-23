@@ -1,0 +1,17 @@
+# Conda environment for DS 6021.
+#
+# The package versions are NOT listed here — they come from requirements.txt,
+# which is generated from uv.lock. That keeps one source of truth, so conda
+# students get exactly the same versions as uv and pip students.
+#
+#   conda env create -f environment.yml
+#   conda activate ds6021
+name: ds6021
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - git          # needed to install ds6021b from GitHub
+  - pip:
+      - -r requirements.txt

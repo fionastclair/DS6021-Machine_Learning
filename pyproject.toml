@@ -1,0 +1,18 @@
+[project]
+name = "ds6021-fall2026"
+version = "0.1.0"
+description = "DS 6021 Fall 2026"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ds6021b @ git+https://github.com/mfriedel/ds6021b-py@v0.1.0", 
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
+    "nbformat>=5.10.4",
+    "pandas>=3.0.3",
+    "plotly>=6.9.0",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.18.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+]
