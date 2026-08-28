@@ -9,6 +9,8 @@ All homework will be assigned and turned in on our class Canvas Page. There are 
 
 ## Private Github Repository (First Choice)
 
+This is the strongly preferred option. 
+
 Here, you will build out a github repository for this course. To make it easier for us to grade your work, please complete these steps: 
 * Create a **private** github repository with the following name: ds6021-f26-[computeid], all lower case. Mine is [ds6021-f26-pjs8ph](https://github.com/mfriedel/ds6021-f26-pjs8ph). (Note that my repository is public in order to serve as an example!)
 * Add myself ([mfriedel](https://github.com/mfriedel)) and Yuyang ([EstherrCheng](https://github.com/EstherrCheng)) as collaborators on the repo. This means that Yuyang and I will be able to see your submissions, but no one else will. 
